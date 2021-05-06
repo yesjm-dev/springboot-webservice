@@ -1,2 +1,6 @@
-package com.jeongmin.springboot.domain.posts;public interface PostsRepository {
+package com.jeongmin.springboot.domain.posts;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface PostsRepository extends JpaRepository<Posts, Long> {
 }

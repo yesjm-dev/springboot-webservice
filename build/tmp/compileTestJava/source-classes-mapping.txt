@@ -1,4 +1,10 @@
+com/jeongmin/springboot/web/PostsApiControllerTest.java
+ com.jeongmin.springboot.web.PostsApiControllerTest
 com/jeongmin/springboot/web/dto/HelloResponseDtoTest.java
  com.jeongmin.springboot.web.dto.HelloResponseDtoTest
+com/jeongmin/springboot/domain/posts/PostsRepositoryTest.java
+ com.jeongmin.springboot.domain.posts.PostsRepositoryTest
 com/jeongmin/springboot/web/HelloControllerTest.java
  com.jeongmin.springboot.web.HelloControllerTest
+com/jeongmin/springboot/web/IndexControllerTest.java
+ com.jeongmin.springboot.web.IndexControllerTest
